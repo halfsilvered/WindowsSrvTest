@@ -1,0 +1,21 @@
+﻿正在安装程序集“D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.exe
+   logfile = D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.InstallLog
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.exe
+   logfile = D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.InstallLog
+正在卸载程序集“D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.exe
+   logfile = D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.InstallLog
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。

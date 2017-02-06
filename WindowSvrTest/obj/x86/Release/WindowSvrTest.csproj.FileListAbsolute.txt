@@ -1,0 +1,8 @@
+D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.exe
+D:\学习\WindowSvrTest\WindowSvrTest\bin\Release\WindowSvrTest.pdb
+D:\学习\WindowSvrTest\WindowSvrTest\obj\x86\Release\ResolveAssemblyReference.cache
+D:\学习\WindowSvrTest\WindowSvrTest\obj\x86\Release\WindowSvrTest.ProjectInstaller.resources
+D:\学习\WindowSvrTest\WindowSvrTest\obj\x86\Release\GenerateResource.read.1.tlog
+D:\学习\WindowSvrTest\WindowSvrTest\obj\x86\Release\GenerateResource.write.1.tlog
+D:\学习\WindowSvrTest\WindowSvrTest\obj\x86\Release\WindowSvrTest.exe
+D:\学习\WindowSvrTest\WindowSvrTest\obj\x86\Release\WindowSvrTest.pdb
